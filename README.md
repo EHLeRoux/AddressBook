@@ -17,6 +17,7 @@ User page:
 
 
 Administrator page: 
+
 Adding a new contact: 
 - Select clear All
 - Select Show List 
