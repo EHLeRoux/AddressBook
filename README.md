@@ -50,6 +50,7 @@ Deleting a contact from a user:
 Adding a contact for a user: 
 - Click on the user and select Select User 
 - Input the details for the cellphone number and email address along with a unique contact id 
+- User can have infinite amount of contact details
 - The first user will have a contact ID from 1 - 5, for 5 different contact entries 
 - The second user will have different contact ID from 6 - 10, for 5 different contact entries 
 - The third user will have different contact ID from 11 - 15, for 5 different contact entries and so on 
