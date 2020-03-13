@@ -7,7 +7,7 @@ Welcome to the AddressBook!
 - The user page shows the current contact list with each person's contact details. 
 - To switch between the two pages, click 'Administrator' at the top right or 'User' 
 - The database runs on mysql, please change the user name and password (at the top of the AddressBookBackEnd) to your localhost username and password.
-- If you run the application the first time examples are inputted into the database, delete or comment out the part where the insertions are made into the database (AddressBookBackEnd)
+- If you run the application the first time examples are inputted into the database, delete or comment out the part where the insertions are made into the database (AddressBookBackEnd) after the first run
 
 User page:
 - Show List will display all the contacts in your address book 
